@@ -4,7 +4,7 @@
 The web application for exploration of urban and natural areas
 
 ## TO DO
-
+`
 * a nice landing page
 |-navigation by category
 | \-Parks, ruins, hills
@@ -24,4 +24,7 @@ The web application for exploration of urban and natural areas
   
 * database
 |-
+`
 
+NOT TO DO:
+getting hung up on frontend (this is backend project)
